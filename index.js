@@ -21,3 +21,5 @@ function inc(n) {
 function dec(n) {
   return n -= 1;
 }
+
+console.log(parseInt('2.2222', 10));
